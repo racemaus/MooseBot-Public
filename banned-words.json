@@ -1,0 +1,8 @@
+{
+    "banned-artists": [
+        "Example", "Example2"
+    ],
+    "banned-words": [
+        "Example", "Example2"
+    ]
+}
